@@ -8,3 +8,5 @@ Spark cloud instances declare URLs they serve to WebSpark. These URLs are transp
 Special thanks to IBM and IBM Spark Hackathon for making this possible.
 
 David Wang
+
+Included is a Spark web service demo program that uses parallel processing for HTTP response generation. It appears as a normal web service to HTTP clients.
