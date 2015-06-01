@@ -11,7 +11,6 @@
 
 import urllib2, urllib
 import math
-import demohtml
 import time
 import traceback
 
